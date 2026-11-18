@@ -19,15 +19,6 @@
   <img src="./assets/magi.svg" width="100%" alt="MAGI SYSTEM">
 </p>
 
-```yaml
-pilot:        Ra9ge
-affiliation:  Utsubo Inc.
-base:         Japan
-operation:    Senku.one — аниме и манга: сайт, Android, Android TV, Desktop
-assignment:   full-stack · design · infrastructure
-sync_ratio:   400%   # 「逃げちゃダメだ」
-```
-
 <p align="center">
   <img src="./assets/photos/exist.jpg" width="100%" alt="MAYBE I EXIST TO FIND OUT WHY">
 </p>
