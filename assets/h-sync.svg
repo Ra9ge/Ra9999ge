@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84">
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.5" fill="#000" fill-opacity=".38"/></pattern>
+<pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="5" cy="5" r="2.1" fill="#8f0000"/></pattern>
+<style>
+.s{font-family:'Times New Roman',Times,'Liberation Serif','Nimbus Roman No9 L','DejaVu Serif',serif;font-weight:700;fill:#f3efe6}
+.j{font-family:'Yu Mincho',YuMincho,'Hiragino Mincho ProN','MS Mincho','Noto Serif JP','Noto Serif CJK JP',serif;font-weight:800;fill:#0a0a0a}
+.m{font-family:Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','Liberation Mono',monospace;font-size:15px;fill:#8a8a8a}
+.w{fill:#f3efe6}.r{fill:#e10600}.k{fill:#0a0a0a}
+.bl{animation:bl 1.2s steps(1,end) infinite}
+@keyframes bl{50%{opacity:0}}
+</style></defs>
+<rect width="1200" height="84" fill="#0a0a0a"/>
+
+<rect width="170" height="84" fill="#e10600"/><text class="j" x="85" y="56" font-size="34" text-anchor="middle">第肆話</text>
+<text class="s" x="200" y="62" font-size="50" textLength="300" lengthAdjust="spacingAndGlyphs">SYNC RATIO</text>
+<rect class="bl" x="514" y="30" width="12" height="32" fill="#e10600"/>
+<text class="m" x="1176" y="54" font-size="14" text-anchor="end" letter-spacing="2">04 // シンクロ率</text>
+<rect x="170" y="80" width="1030" height="4" fill="#e10600"/>
+
+</svg>

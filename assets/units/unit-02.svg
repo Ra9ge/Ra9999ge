@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="160" viewBox="0 0 580 160">
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.5" fill="#000" fill-opacity=".38"/></pattern>
+<pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="5" cy="5" r="2.1" fill="#8f0000"/></pattern>
+<style>
+.s{font-family:'Times New Roman',Times,'Liberation Serif','Nimbus Roman No9 L','DejaVu Serif',serif;font-weight:700;fill:#f3efe6}
+.j{font-family:'Yu Mincho',YuMincho,'Hiragino Mincho ProN','MS Mincho','Noto Serif JP','Noto Serif CJK JP',serif;font-weight:800;fill:#0a0a0a}
+.m{font-family:Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','Liberation Mono',monospace;font-size:15px;fill:#8a8a8a}
+.w{fill:#f3efe6}.r{fill:#e10600}.k{fill:#0a0a0a}
+.bl{animation:bl 1.2s steps(1,end) infinite}
+@keyframes bl{50%{opacity:0}}
+</style></defs>
+<rect width="580" height="160" fill="#0a0a0a"/>
+
+<rect width="124" height="160" fill="#e10600"/>
+<rect y="146" width="124" height="14" fill="url(#dots)"/>
+<text class="s k" x="62" y="88" font-size="78" text-anchor="middle">02</text>
+<text class="j" x="62" y="132" font-size="21" text-anchor="middle">弐号機</text>
+<text class="m r" x="150" y="34" font-size="12" letter-spacing="2">EVA UNIT-02 // TYPESCRIPT</text>
+<rect class="bl" x="490" y="24" width="9" height="11" fill="#e10600"/>
+<text class="m" x="556" y="34" font-size="12" text-anchor="end" letter-spacing="2">ACTIVE</text>
+<text class="s" x="150" y="78" font-size="32">Uw.Senku.Site</text>
+<text class="m" x="150" y="108" font-size="15">Official Senku kit: public API</text>
+<text class="m" x="150" y="129" font-size="15">SDK, brand, docs and examples</text>
+<rect x="150" y="144" width="406" height="2" fill="#262626"/>
+<rect x="150" y="144" width="64" height="2" fill="#e10600"/>
+
+</svg>
